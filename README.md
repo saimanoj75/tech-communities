@@ -19,6 +19,9 @@ No rules, just be kind, and make sure it’s active or useful.
 ### Ghana
 - [Developers in Vogue](https://developersinvogue.org/)
 - [DevCongress](https://twitter.com/devcongress)
+- [Because She Can](https://www.becauseshecan.tech)
+- [Divaloper](https://divaloper.com)
+
 
 ### Nigeria
 - [ForLoop Africa](https://forloop.africa/)
@@ -32,6 +35,7 @@ No rules, just be kind, and make sure it’s active or useful.
 ### Global
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Google Developer Groups](https://developers.google.com/community/gdg)
+- [Grace Hopper Celebration](https://ghc.anitab.org)
 
 *(Add more below)*
 
