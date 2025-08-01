@@ -24,6 +24,11 @@ No rules, just be kind, and make sure it’s active or useful.
 - [ForLoop Africa](https://forloop.africa/)
 - [She Code Africa](https://shecodeafrica.org/)
 
+### Rwanda
+- [ReactJS Rwanda](https://discord.gg/6PjR3pEgPK)
+- [Open Source Kigali](https://github.com/Open-Source-Kigali)
+- [GDG Kigali (Google Developer Group)](https://gdg.community.dev/gdg-kigali/)
+
 ### Global
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Google Developer Groups](https://developers.google.com/community/gdg)
