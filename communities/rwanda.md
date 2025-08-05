@@ -2,7 +2,7 @@
 
 #  Tech Communities in Rwanda
 
-A list of tech communities and events happening in or based in Rwanda.
+A list of tech communities in or based in Rwanda.
 
 - [ReactJS Rwanda](https://discord.gg/6PjR3pEgPK)
 - [Open Source Kigali](https://github.com/Open-Source-Kigali)

@@ -1,6 +1,6 @@
 # Tech Communities  Globally
 
-A list of tech communities and events happening in or based in Ghana.
+A list of tech communities Globally.
 
 ### Global
 - [Women Who Code](https://www.womenwhocode.com/)

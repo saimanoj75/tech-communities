@@ -2,7 +2,7 @@
 
 #  Tech Communities in Nigeria
 
-A list of tech communities and events happening in or based in Nigeria.
+A list of tech communities  in or based in Nigeria.
 
 
 - [ForLoop Africa](https://forloop.africa/)
