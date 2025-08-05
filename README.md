@@ -1,12 +1,7 @@
-Here’s the fully cleaned and markdown-formatted `README.md`, updated to:
 
-* Remove emojis
-* Add an **events section**
-* Keep it simple, clear, and beginner-friendly
 
 ---
 
-```markdown
 # Tech Communities You Can Join
 
 A growing list of tech communities and event hubs to help you connect, volunteer, or get support—especially if you’re just starting out.
@@ -53,6 +48,6 @@ There are no strict rules—just be kind, and make sure it’s active or useful.
 
 Repost the link, invite your network, and help someone find their space in tech.  
 This repo grows when people like you share what you know.
-```
+
 
 

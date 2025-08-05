@@ -1,7 +1,5 @@
 
----
 
-````markdown
 # Contributing to the Tech Communities Repo
 
 Thanks for stopping by! This project is all about helping people find tech communities they can join and events they can volunteer for—especially when it’s hard to know where to start.
